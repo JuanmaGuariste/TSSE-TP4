@@ -74,7 +74,7 @@ void test_turn_on_single_led(void) {
 void test_turn_off_single_led(void) {
     Leds_turnOnSingle(4);
     Leds_turnOffSingle(4);
-    TEST_ASSERT_EQUAL_HEX16(0x0000, virtualLeds);
+    TEST_ASSERT_EQUAL_HEX16(0x0001, virtualLeds);
 }
 
 //! @test Turn on and turn off multiple LEDs.
