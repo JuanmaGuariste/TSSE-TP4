@@ -1,8 +1,8 @@
-# Trabajo Práctico Número 2
+# Trabajo Práctico Número 4
 
-# Trabajo práctico Número 2 de la asignatura Testing de Software en Sistemas Embebidos
+# Trabajo práctico Número 4 de la asignatura Testing de Software en Sistemas Embebidos
 ## Carrera en Especialización en Sistemas Embebidos de la UBA.
 
-Tema: Test Driven Development - Desarrollo de un driver de LEDs
+Tema: Integración continua
 
 Autor: Juan Manuel Guariste
